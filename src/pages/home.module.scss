@@ -1,3 +1,28 @@
 .container {
   margin: 0px;
 }
+
+.post-container {
+  max-width: 50%;
+  margin: 48px auto;
+  h2 {
+    font-weight: bold;
+    font-size: 28px;
+    letter-spacing: -0.5px;
+  }
+  p {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 22px;
+    text-align: justify;
+    color: #d7d7d7;
+  }
+
+  small + small {
+    margin: 0 8px;
+  }
+  svg {
+    margin: 0 4px 0 0;
+  }
+}
