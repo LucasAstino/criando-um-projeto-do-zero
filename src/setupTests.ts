@@ -5,4 +5,4 @@
 
 // eslint-disable-next-line import/no-extraneous-dependencies
 import '@testing-library/jest-dom/extend-expect';
-import 'whatwg-fetch';
+import 'whatwg-fetch'
